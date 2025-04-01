@@ -1,7 +1,7 @@
 # UE5_Hypervoid
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/a865ffc9-3252-4a00-93b4-0375cad55b3c" style="width: 100%;"><br>        
+  <img src = "https://github.com/user-attachments/assets/a865ffc9-3252-4a00-93b4-0375cad55b3c" style="width: 75%;"><br>        
 </p>
 
 Unreal Engine Blueprint project for FPS-roguelike shooting game
